@@ -4,6 +4,8 @@
 - 💬 Ask me about Cloud Security, Kubernetes and μservices.
 - 📫 How to reach me: https://akostopoulos.blog
 - 😄 Pronouns: he/him
+- Ask me about retrocomputing and reverse engineering as well.
+
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
