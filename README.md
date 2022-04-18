@@ -5,7 +5,7 @@
 - 📫 How to reach me: https://akostopoulos.blog
 - 😄 Pronouns: he/him
 - Ask me about retrocomputing and reverse engineering as well.
-
+- Occassional CTF player.
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
