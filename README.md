@@ -14,10 +14,10 @@ Selected posts:
 Binary security, supply chain integrity, threat modeling for distributed systems, AI (in)security
 
 ## Retrocomputing & Reverse Engineering
-[binja-amiga](https://github.com/thanasisk/binja-amiga) | [Amiga500 Toolkit](https://github.com/thanasisk/a500-mini-toolset) | [theC64-toolkit](https://github.com/thanasisk/theC64-toolkit)
+[binja-amiga](https://github.com/thanasisk/binja-amiga) | [Amiga500 Replica Firmware Decryptor](https://github.com/thanasisk/a500-mini-toolset) | [C64 Replica Firmware Decryptort](https://github.com/thanasisk/theC64-toolkit)
 
 ## Education
-Holder of a BSc(Hons) degree in AI, before AI became cool (University of Reading,UK  Cybernetics, Class of 2005)
+Holder of a BSc(Hons) degree in AI, before AI became cool [University of Reading,UK  Cybernetics, Class of 2005](https://www.reading.ac.uk/smpcs/)
 
 ## Community Mentorship
 [72 Seasons](https://akostopoulos.blog/2023/12/19/my-72-seasons-and-how-can-i-pay-them-forward/) is my free community mentorship program since 2023.
