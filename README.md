@@ -3,11 +3,11 @@
 Staff Security Engineer | Berlin, Germany
 
 ## Writing
-I write about security engineering, threat modeling, and the intersection of culture and security at **[akostopoulos.blog](https://akostopoulos.blog)**
+I write about security architecture and engineering, threat modeling, and the intersection of culture and security at **[akostopoulos.blog](https://akostopoulos.blog)**
 
 Selected posts:
-- [The Great Berlin Startup Swindle](https://akostopoulos.blog/2025/10/20/the-great-berlin-startup-swindle/)
-- [Used car salespeople and the Zen of AI security](https://akostopoulos.blog/2024/06/01/used-car-salespeople-and-the-zen-of-ai-security/)
+- [My 72 Seasons and How Can I Pay Them Forward](https://akostopoulos.blog/2023/12/19/my-72-seasons-and-how-can-i-pay-them-forward/)
+- [Five Algorithms Walk Into a CTF (Only One Walks Out)](https://akostopoulos.blog/2025/11/23/five-algorithms-walk-into-a-ctf-only-one-walks-out/)
 - [Information Security? Game on!](https://akostopoulos.blog/2023/12/20/information-security-game-on/)
 
 ## Primary Interests
